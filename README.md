@@ -17,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" height="40" width="40" alt="emacs logo"  />
+  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="40" width="40" alt="arch logo"  />
 </div>
 
 ###
