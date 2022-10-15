@@ -31,14 +31,12 @@
 
 ###
 
-# My Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Software Build Process](https://khaledmust.github.io/software-build-process/)
-<!-- BLOG-POST-LIST:END -->
-
-###
-
 <img src="https://raw.githubusercontent.com/khaledmust/khaledmust/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=khaledmust.khaledmust&left_color=darkslategray&right_color=goldenrod"  />
+</div>
+
+###
