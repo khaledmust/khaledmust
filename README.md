@@ -33,6 +33,7 @@
 
 # 📖 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Build Process](https://khaledmust.github.io/software-build-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
